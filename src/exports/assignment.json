@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603256",
+ "ten": "MaiVanPhong",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "phongmv",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000201702.jpg",
+  "000000241837.jpg",
+  "000000308257.jpg",
+  "000000463932.jpg",
+  "000000508269.jpg",
+  "000000156986.jpg",
+  "000000157271.jpg",
+  "000000469061.jpg",
+  "000000123544.jpg",
+  "000000359340.jpg",
+  "000000167027.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_147624.jpg",
+  "face_257657.jpg",
+  "face_300399.jpg",
+  "face_223746.jpg",
+  "face_436791.jpg",
+  "face_504911.jpg",
+  "face_255797.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 5,
+   "task_name": "persons-MaiVanPhong"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 6,
+   "task_name": "faces-MaiVanPhong"
+  }
+ }
+}
